@@ -54,7 +54,7 @@ The IoT-based Health Monitoring System is designed to enhance healthcare service
 
 - **Anay Sinhal** - [View Profile](https://github.com/anayy09)
 - **Chitraksh Gupta** - [View Profile](https://github.com/ChitrakshGupta)
-- **Kanchi Sharma** - [View Profile](https://github.com/KanchiSharma)
+- **Kanchi Sharma** - [View Profile](https://github.com/KanchiSharma13)
 
 
 ## Contributing
