@@ -50,10 +50,12 @@ The IoT-based Health Monitoring System is designed to enhance healthcare service
 
 ![System Overview](images/system_overview.jpg)
 
-## Troubleshooting
-- **Connection Issues**: Ensure the NodeMCU is correctly connected to your Wi-Fi network.
-- **Sensor Errors**: Verify the MAX30100 sensor is properly connected and seated on the breadboard.
-- **App Notifications**: Make sure Blynk app notifications are enabled in your smartphone settings.
+## Contributors
+
+- **Anay Sinhal** - [View Profile](https://github.com/anayy09)
+- **Chitraksh Gupta** - [View Profile](https://github.com/ChitrakshGupta)
+- **Kanchi Sharma** - [View Profile](https://github.com/KanchiSharma)
+
 
 ## Contributing
 We welcome contributions to improve the IoT-based Health Monitoring System. Whether it's feature requests, bug reports, or code contributions, please feel free to make a pull request or open an issue.
